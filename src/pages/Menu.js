@@ -72,6 +72,7 @@ export default class Menu extends Component {
                         </ul>
                     </li> */}
 
+
                     <li className="nav-item">
                         <Link to="#" className="nav-link">
                             <i className="nav-icon fas fa-th" />
@@ -81,6 +82,9 @@ export default class Menu extends Component {
                             </p>
                         </Link>
                     </li>
+
+
+
                     <li className="nav-item">
                         <a href="#" className="nav-link">
                             <i className="nav-icon fas fa-copy" />
